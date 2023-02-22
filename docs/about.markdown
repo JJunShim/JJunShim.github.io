@@ -10,7 +10,9 @@ permalink: /about/
 - GitHub: [J-JunShim](https://github.com/J-JunShim)
 - LinkedIn: [HyperLink](https://www.linkedin.com/in/jun-shim-b93a4523b/)
 
-Hello, I'm a.
+Hello, my name is Jae-Jun Shim. I was born and live in Seoul. I have a bachelor's degree in Computer Engineer majoring. I am interested in Artificial Intelligence now.
+
+Thank you for your interest.
 
 ---
 
