@@ -4,14 +4,50 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Jae-Jun Shim
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- [E-Mail](mailto:jjunsh.120@gmail.com)
+- [GitHub](https://github.com/J-JunShim)
+- [LinkedIn](https://www.linkedin.com/in/jun-shim-b93a4523b/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hello, I'm a.
 
-[jekyll-organization]: https://github.com/jekyll
+---
+
+## Experience
+
+| Organization | Department | Position |  |
+| - | - | - | -: |
+| [Seoul National University](https://www.snu.ac.kr/) | [Medinfo Laboratory](https://medinfolab.snu.ac.kr/) | Research Intern | ___Dec 2022 ~ Feb 2023___|
+| [Korea IT Business Promotion Association](https://koipa.or.kr/) | SW Business Department | Senior Assistant | ___May 2022 ~ Dec 2022___ |
+| Startup Compony  | | Member | ___Sep 2021 ~ Apr 2022___ |
+| [National IT industry Promotion Agency](https://www.nipa.kr/) | [ICT-InnovationSquare Seoul, Northeast region - AI Development](http://ictinnovation.kr/) | Teaching Assistance | ___Apr 2021 ~ Sep 2021___ |
+| [Korea Data Agency](https://www.kdata.or.kr/) | [Big-data Campus - Korea University](https://dataonair.or.kr/bigjob/) | Teaching Assistance | ___Jun 2021 ~ Aug 2021___|
+
+### Seoul National University
+
+- from ___May 2022___ to ___Dec 2022___
+- a __Research Intern__
+- in __Medinfo Laboratory__
+- do research __NLP__ for __Biomedicine__ data
+
+### Korea IT Business Promotion Association
+
+- from ___May 2022___ to ___Dec 2022___
+- a __Senior Assistant__
+- in __SW Business Department__
+- do operate __Government business__ from __Ministry of Science and ICT__ - ICT-InnovationSquare in AI Development
+
+---
+
+## Education
+
+### _B.S in Computer Engineering_
+
+from ___Mar 2018___ to ___Feb 2021___ at __Anyang University__
+
+### _A.A in IT Business_
+
+from ___Mar 2016___ to ___Feb 2018___ at __Ansan University__
+
+---
