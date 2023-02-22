@@ -6,9 +6,9 @@ permalink: /about/
 
 # Jae-Jun Shim
 
-- [E-Mail](mailto:jjunsh.120@gmail.com)
-- [GitHub](https://github.com/J-JunShim)
-- [LinkedIn](https://www.linkedin.com/in/jun-shim-b93a4523b/)
+- E-Mail: [jjunsh.120@gmail.com](mailto:jjunsh.120@gmail.com)
+- GitHub: [J-JunShim](https://github.com/J-JunShim)
+- LinkedIn: [HyperLink](https://www.linkedin.com/in/jun-shim-b93a4523b/)
 
 Hello, I'm a.
 
