@@ -5,4 +5,10 @@
 layout: home
 ---
 
-Hello world
+# Information
+
+Hello, my name is Jae-Jun Shim. I am interested in Artificial Intelligence now.
+
+If you want to see my career, please click the `About` button on the navigation bar.
+
+Thank you for your interest.
