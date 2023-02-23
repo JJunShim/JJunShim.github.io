@@ -7,7 +7,7 @@ layout: home
 
 - E-Mail: [jjunsh.120@gmail.com](mailto:jjunsh.120@gmail.com)
 - GitHub: [J-JunShim](https://github.com/J-JunShim)
-- LinkedIn: [HyperLink](https://www.linkedin.com/in/jun-shim-b93a4523b/)
+- LinkedIn: [HyperLink](https://www.linkedin.com/in/jjunshim/)
 
 Hello, my name is Jae-Jun Shim. I was born and live in Seoul. I have a bachelor's degree in Computer Engineer majoring. I am interested in Artificial Intelligence now.
 
