@@ -28,6 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: J-JunShim
 linkedin_username: jun-shim-b93a4523b
 
+timezone: Asia/Seoul
+
 # Build settings
 theme: minima
 plugins:
