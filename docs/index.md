@@ -27,6 +27,7 @@ Thank you for your interest.
 
 ### Seoul National University
 
+- Seoul, Republic of Korea.
 - from ___May 2022___ to ___Dec 2022___.
 - a __Research Intern__.
 - in __Medinfo Laboratory__.
@@ -34,6 +35,7 @@ Thank you for your interest.
 
 ### Korea IT Business Promotion Association
 
+- Seoul, Republic of Korea.
 - from ___May 2022___ to ___Dec 2022___.
 - a __Senior Researcher__.
 - in __SW Business Department__.
