@@ -27,17 +27,17 @@ Thank you for your interest.
 
 ### Seoul National University
 
-- from ___May 2022___ to ___Dec 2022___
-- a __Research Intern__
-- in __Medinfo Laboratory__
-- do research __NLP__ for __Biomedicine__ data
+- from ___May 2022___ to ___Dec 2022___.
+- a __Research Intern__.
+- in __Medinfo Laboratory__.
+- do research __NLP__ task with __Biomedicine__ data.
 
 ### Korea IT Business Promotion Association
 
-- from ___May 2022___ to ___Dec 2022___
-- a __Senior Researcher__
-- in __SW Business Department__
-- do operate __Government business__ from __Ministry of Science and ICT__ - ICT-InnovationSquare in AI Development
+- from ___May 2022___ to ___Dec 2022___.
+- a __Senior Researcher__.
+- in __SW Business Department__.
+- do operate __Government business__ from __Ministry of Science and ICT__ - ICT-InnovationSquare in AI Development.
 
 ---
 
@@ -45,11 +45,11 @@ Thank you for your interest.
 
 ### _B.S in Computer Engineering_
 
-from ___Mar 2018___ to ___Feb 2021___ at __Anyang University__
+from ___Mar 2018___ to ___Feb 2021___ at __Anyang University__, Gyeonggi Province, Republic of Korea.
 
 ### _A.A in IT Business_
 
-from ___Mar 2016___ to ___Feb 2018___ at __Ansan University__
+from ___Mar 2016___ to ___Feb 2018___ at __Ansan University__, Gyeonggi Province, Republic of Korea.
 
 ---
 
