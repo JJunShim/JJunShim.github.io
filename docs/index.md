@@ -5,17 +5,26 @@
 layout: home
 ---
 
-- E-Mail: [jjunsh.120@gmail.com](mailto:jjunsh.120@gmail.com)
-- GitHub: [J-JunShim](https://github.com/J-JunShim)
-- LinkedIn: [HyperLink](https://www.linkedin.com/in/jjunshim/)
+# Curriculum Vitae
 
-Hello, my name is Jae-Jun Shim. I was born and live in Seoul. I have a bachelor's degree in Computer Engineer majoring. I am interested in Artificial Intelligence now.
+Hello, my name is Jae-Jun Shim. I was born and live in Seoul, Republic of Korea since 1998. I have a bachelor's degree in Computer Engineer majoring. Currently, I am interested in Artificial Intelligence.
 
 Thank you for your interest.
 
+- E-Mail: [jjunsh.120@gmail.com](mailto:jjunsh.120@gmail.com)
+- GitHub: [J-JunShim](https://github.com/J-JunShim)
+- LinkedIn: [Link to](https://www.linkedin.com/in/jjunshim/)
+
+## Interest
+
 ---
 
-## Experience
+- Artificial Intelligence
+- Natural Language Processing
+
+## Employment
+
+---
 
 | Organization | Department | Position |  |
 | - | - | - | -: |
@@ -41,9 +50,9 @@ Thank you for your interest.
 - in __SW Business Department__.
 - do operate __Government business__ from __Ministry of Science and ICT__ - ICT-InnovationSquare in AI Development.
 
----
-
 ## Education
+
+---
 
 ### _B.S in Computer Engineering_
 
@@ -52,8 +61,6 @@ from ___Mar 2018___ to ___Feb 2021___ at __Anyang University__, Gyeonggi Provinc
 ### _A.A in IT Business_
 
 from ___Mar 2016___ to ___Feb 2018___ at __Ansan University__, Gyeonggi Province, Republic of Korea.
-
----
 
 ## Publications
 
