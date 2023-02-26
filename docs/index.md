@@ -23,7 +23,7 @@ Thank you for your interest.
 
 ---
 
-## Employment
+## Experience
 
 | Organization | Department | Position |  |
 | - | - | - | -: |
@@ -36,10 +36,11 @@ Thank you for your interest.
 ### Seoul National University
 
 - Seoul, Republic of Korea.
-- from ___May 2022___ to ___Dec 2022___.
+- from ___Dec 2022___ to ___Feb 2023___.
 - a __Research Intern__.
 - in __Medinfo Laboratory__.
 - do research __NLP__ task with __Biomedicine__ data.
+- Thesis: Dataset Is All You Need - MedNLI
 
 ### Korea IT Business Promotion Association
 
@@ -56,6 +57,8 @@ Thank you for your interest.
 ### _B.S in Computer Engineering_
 
 from ___Mar 2018___ to ___Feb 2021___ at __Anyang University__, Gyeonggi Province, Republic of Korea.
+
+- Thesis: COVID-19 News Summarization Timeline
 
 ### _A.A in IT Business_
 
