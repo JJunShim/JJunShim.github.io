@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Curriculum Vitae
+title: About
 ---
 
 Hello, my name is Jae-Jun Shim. I was born and live in Seoul, Republic of Korea since 1998. I have a bachelor's degree in Computer Engineer majoring. Currently, I am interested in Artificial Intelligence.
@@ -29,7 +29,6 @@ Thank you for your interest.
 | - | - | - | -: |
 | [Seoul National University](https://www.snu.ac.kr/) | [Medinfo Laboratory](https://medinfolab.snu.ac.kr/) | Research Intern | ___Dec 2022 ~ Feb 2023___|
 | [Korea IT Business Promotion Association](https://koipa.or.kr/) | SW Business Department | Senior Researcher | ___May 2022 ~ Dec 2022___ |
-| Startup Compony  | | Member | ___Sep 2021 ~ Apr 2022___ |
 | [National IT industry Promotion Agency](https://www.nipa.kr/) | [ICT-InnovationSquare Seoul, Northeast region - AI Development](http://ictinnovation.kr/) | Teaching Assistance | ___Apr 2021 ~ Sep 2021___ |
 | [Korea Data Agency](https://www.kdata.or.kr/) | [Big-data Campus - Korea University](https://dataonair.or.kr/bigjob/) | Teaching Assistance | ___Jun 2021 ~ Aug 2021___|
 
