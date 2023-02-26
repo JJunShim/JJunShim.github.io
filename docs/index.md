@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Curriculum Vitae
 ---
-
-# Curriculum Vitae
 
 Hello, my name is Jae-Jun Shim. I was born and live in Seoul, Republic of Korea since 1998. I have a bachelor's degree in Computer Engineer majoring. Currently, I am interested in Artificial Intelligence.
 
@@ -15,16 +14,16 @@ Thank you for your interest.
 - GitHub: [J-JunShim](https://github.com/J-JunShim)
 - LinkedIn: [Link to](https://www.linkedin.com/in/jjunshim/)
 
-## Interest
-
 ---
+
+## Interest
 
 - Artificial Intelligence
 - Natural Language Processing
 
-## Employment
-
 ---
+
+## Employment
 
 | Organization | Department | Position |  |
 | - | - | - | -: |
@@ -50,9 +49,9 @@ Thank you for your interest.
 - in __SW Business Department__.
 - do operate __Government business__ from __Ministry of Science and ICT__ - ICT-InnovationSquare in AI Development.
 
-## Education
-
 ---
+
+## Education
 
 ### _B.S in Computer Engineering_
 
@@ -61,6 +60,8 @@ from ___Mar 2018___ to ___Feb 2021___ at __Anyang University__, Gyeonggi Provinc
 ### _A.A in IT Business_
 
 from ___Mar 2016___ to ___Feb 2018___ at __Ansan University__, Gyeonggi Province, Republic of Korea.
+
+---
 
 ## Publications
 
