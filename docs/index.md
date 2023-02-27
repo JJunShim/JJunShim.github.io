@@ -27,17 +27,18 @@ Thank you for your interest.
 
 | Organization | Department | Position |  |
 | - | - | - | -: |
-| [Seoul National University](https://www.snu.ac.kr/) | [Medinfo Laboratory](https://medinfolab.snu.ac.kr/) | Student Research Intern | ___Dec 2022 ~ Feb 2023___|
+| [Seoul National University](https://www.snu.ac.kr/) | [Medinfo Laboratory](https://medinfolab.snu.ac.kr/) | Undergraduate Research Intern | ___Dec 2022 ~ Feb 2023___|
 | [Korea IT Business Promotion Association](https://koipa.or.kr/) | SW Business Department | Senior Researcher | ___May 2022 ~ Dec 2022___ |
 | [National IT industry Promotion Agency](https://www.nipa.kr/) | [ICT-InnovationSquare Seoul, Northeast region - AI Development](http://ictinnovation.kr/) | Teaching Assistance | ___Apr 2021 ~ Sep 2021___ |
 | [Korea Data Agency](https://www.kdata.or.kr/) | [Big-data Campus - Korea University](https://dataonair.or.kr/bigjob/) | Teaching Assistance | ___Jun 2021 ~ Aug 2021___|
+| [Anyang University](https://www.anyang.ac.kr/) | Embedded System Laboratory | Undergraduate Research | ___Mar 2018 ~ Jul 2018___
 
 ### Seoul National University
 
 - Seoul, Republic of Korea.
 - from ___Dec 2022___ to ___Feb 2023___.
-- a __Student Research Intern__.
-- in __Medinfo Laboratory__.
+- a __Undergraduate Research Intern__.
+- in __Medinfo Laboratory__, Integrated Major in Innovative Medical Science.
 - do research __NLP__ task with __Biomedicine__ data.
 - Thesis: Dataset Is All You Need - MedNLI
 
