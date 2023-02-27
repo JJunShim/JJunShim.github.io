@@ -18,7 +18,7 @@ Thank you for your interest.
 
 ## Interest
 
-- Artificial Intelligence
+- Deep Neural Network
 - Natural Language Processing
 - Multimodal Learning
 - Domain Adaption
