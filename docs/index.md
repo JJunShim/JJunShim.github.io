@@ -20,6 +20,8 @@ Thank you for your interest.
 
 - Artificial Intelligence
 - Natural Language Processing
+- Multimodal Learning
+- Domain Adaption
 
 ---
 
