@@ -21,6 +21,7 @@ Thank you for your interest.
 - Deep Neural Network
 - Natural Language Processing
 - Multimodal Learning
+- Generative Model
 - Domain Adaption
 
 ---
