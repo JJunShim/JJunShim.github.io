@@ -11,12 +11,15 @@ I am Jaejun Shim, a computer engineer residing in Seoul, South Korea. My academi
 
 I am grateful for your interest in my work.
 
+## Contacts
+
+🔎 Currently, looking for a **CS Graduate Program**!!
+
 - Curriculum Vitae: [Download](https://raw.githubusercontent.com/JJunShim/JJunShim/main/CV-JaejunShim.pdf)
 - E-Mail: [jjunsh.120@gmail.com](mailto:jjunsh.120@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jjunshim/)
 
 ## Interests
-
----
 
 - Natural Language Processing
 - Multimodality
@@ -25,12 +28,9 @@ I am grateful for your interest in my work.
 
 ## Skills
 
----
-
 ### Laguages
 
-- Native **Korean**
-- Intermediate **English**
+Native in **Korean**, Intermediate in **English**
 
 ### Programming Languages
 
@@ -38,7 +38,7 @@ Python, C\#
 
 ### Frameworks & APIs
 
-TensorFlow
+NumPy, TensorFlow, Pandas, Spark
 
 ### Dev & ML Ops
 
@@ -46,7 +46,4 @@ Google Cloud Platform
 
 ## More
 
----
-
-- [LinkedIn](https://www.linkedin.com/in/jjunshim/)
 - [GitHub](https://github.com/JJunShim)
