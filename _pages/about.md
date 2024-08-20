@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="height: 250px; overflow: hidden;"><img src="../images/laptop.jpg" width="100%" style="vertical-align:middle; object-fit: cover; opacity: .8;"/></div><br/>
+<div style="height: 250px; vertical-align:middle; overflow: hidden;"><img src="../images/laptop.jpg" width="100%" style="object-fit: cover; opacity: .8;"/></div><br/>
 
 I am Jun, a Data Engineer based in Seoul, South Korea. With a computer science degree and experience as a Google Cloud Data Analytics Specialist, I am dedicated to harnessing data to drive innovation. My research internship in NLP at Seoul National University deepened my passion for artificial intelligence.
 
