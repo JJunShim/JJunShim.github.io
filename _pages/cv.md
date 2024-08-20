@@ -9,22 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+- Curriculum Vitae: [PDF Download](https://raw.githubusercontent.com/JJunShim/JJunShim/main/CV-JaejunShim.pdf)
+
 Education
 ======
 
 B.S in Computer Engineering
 -----
 
-from ***Mar 2018*** to ***Feb 2021*** at **Anyang University**, Gyeonggi Province, Republic of Korea.
-
-- Thesis: COVID-19 News Summarization Timeline
+- from ***Mar 2018*** to ***Feb 2021***
+- at **Anyang University**, Gyeonggi Province, Republic of Korea
+- Thesis: "Topic-based Timeline News Summarization System"
 
 A.A in IT Business
 -----
 
-from ***Mar 2016*** to ***Feb 2018*** at **Ansan University**, Gyeonggi Province, Republic of Korea.
+- from ***Mar 2016*** to ***Feb 2018***
+- at **Ansan University**, Gyeonggi Province, Republic of Korea
 
-Work experience
+Experiences
 ======
 
 | Organization | Department | Position | Period |
@@ -39,7 +42,7 @@ Work experience
 Skills
 ======
 
-Laguages
+Languages
 -----
 
 Native in **Korean**, Intermediate in **English**
@@ -79,4 +82,3 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
