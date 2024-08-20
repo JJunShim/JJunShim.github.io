@@ -1,8 +1,9 @@
 ---
+published: false
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
 ---
@@ -25,7 +26,7 @@ redirect_from:
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll.
   * Green check: successful build
   * Orange circle: building
   * Red X: error
@@ -35,7 +36,7 @@ redirect_from:
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
  * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
-## MathJax 
+## MathJax
 
 Support for MathJax Version 3.0 is included in the template:
 
@@ -54,7 +55,7 @@ The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed 
 
 ## Markdown guide
 
-Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
+Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.
 
 ### Header three
 
@@ -109,8 +110,8 @@ Do It Live
 
 ## Unordered Lists (Nested)
 
-  * List item one 
-      * List item one 
+  * List item one
+      * List item one
           * List item one
           * List item two
           * List item three
@@ -124,8 +125,8 @@ Do It Live
 
 ## Ordered List (Nested)
 
-  1. List item one 
-      1. List item one 
+  1. List item one
+      1. List item one
           1. List item one
           2. List item two
           3. List item three
@@ -261,4 +262,3 @@ This allows you to denote <var>variables</var>.
 **Footnotes**
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
-
