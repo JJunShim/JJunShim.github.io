@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Jaejun Shim, a computer engineer residing in Seoul, South Korea. My academic background, coupled with a strong passion for artificial intelligence, drives my professional pursuits.
+<div style="height: 250px;"><img src="../images/laptop.jpg" width="100%" style="object-fit:cover; opacity: .8;"/></div><br/>
 
-I am grateful for your interest in my work.
+I am Jun, a Data Engineer based in Seoul, South Korea. With a computer science degree and experience as a Google Cloud Data Analytics Specialist, I am dedicated to harnessing data to drive innovation. My research internship in NLP at Seoul National University deepened my passion for artificial intelligence.
+
+Thank you for your interest in my work.
 
 ## Contacts
 
