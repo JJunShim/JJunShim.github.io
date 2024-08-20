@@ -17,11 +17,11 @@ redirect_from:
   - Native in **Korean**
   - Intermediate in **English**
 - Programming Languages
-  - Python, C\#
+  - Python, JAVA, C\#
 - Frameworks & APIs
-  - NumPy, TensorFlow, Pandas, Spark
+  - NumPy, TensorFlow(Keras), PyTorch, Pandas, Spark
 - Dev & ML Ops
-  - Windows, Linux
+  - Linux, Windows
   - Google Cloud Platform
 
 ## Education
