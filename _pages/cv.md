@@ -9,26 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-- Curriculum Vitae: [PDF Download](https://raw.githubusercontent.com/JJunShim/JJunShim/main/CV-JaejunShim.pdf)
+[📄 PDF Download](https://raw.githubusercontent.com/JJunShim/JJunShim/main/CV-JaejunShim.pdf)
 
-Education
-======
+## Skills
 
-B.S in Computer Engineering
------
+- Languages
+  - Native in **Korean**
+  - Intermediate in **English**
+- Programming Languages
+  - Python, C\#
+- Frameworks & APIs
+  - NumPy, TensorFlow, Pandas, Spark
+- Dev & ML Ops
+  - Windows, Linux
+  - Google Cloud Platform
+
+## Education
+
+### B.S in Computer Engineering
 
 - from ***Mar 2018*** to ***Feb 2021***
 - at **Anyang University**, Gyeonggi Province, Republic of Korea
 - Thesis: "Topic-based Timeline News Summarization System"
 
-A.A in IT Business
------
+### A.A in IT Business
 
 - from ***Mar 2016*** to ***Feb 2018***
 - at **Ansan University**, Gyeonggi Province, Republic of Korea
 
-Experiences
-======
+## Experiences
 
 | Organization | Department | Position | Period |
 | - | - | - | -: |
@@ -37,48 +46,24 @@ Experiences
 | [Korea IT Business Promotion Association](https://koipa.or.kr/) | SW Business Department | Senior Researcher | ***May 2022 ~ Dec 2022*** |
 | [Korea Data Agency](https://www.kdata.or.kr/) | [Big-data Campus - Korea University](https://dataonair.or.kr/bigjob/) | Teaching Assistance | ***Jun 2021 ~ Sep 2021*** |
 | [National IT industry Promotion Agency](https://www.nipa.kr/) | [ICT-InnovationSquare Seoul, Northeast region - AI Development](http://ictinnovation.kr/) | Teaching Assistance | ***Apr 2021 ~ Aug 2021*** |
-| [Anyang University](https://www.anyang.ac.kr/) | [Embedded System Laboratory](https://www.anyang.ac.kr/computer/) | Undergraduate Research | ***Mar 2018 ~ Jul 2018*** |
+| [Anyang University](https://www.anyang.ac.kr/) | [Embedded System Laboratory](https://www.anyang.ac.kr/computer/) | Undergraduate Researcher | ***Mar 2018 ~ Jul 2018*** |
 
-Skills
-======
+## Publications
 
-Languages
------
-
-Native in **Korean**, Intermediate in **English**
-
-Programming Languages
------
-
-Python, C\#
-
-Frameworks & APIs
------
-
-NumPy, TensorFlow, Pandas, Spark
-
-Dev & ML Ops
------
-
-Google Cloud Platform
-
-Publications
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
-======
+## Service and leadership
