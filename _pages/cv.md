@@ -11,54 +11,72 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+B.S in Computer Engineering
+-----
+
+from ***Mar 2018*** to ***Feb 2021*** at **Anyang University**, Gyeonggi Province, Republic of Korea.
+
+- Thesis: COVID-19 News Summarization Timeline
+
+A.A in IT Business
+-----
+
+from ***Mar 2016*** to ***Feb 2018*** at **Ansan University**, Gyeonggi Province, Republic of Korea.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+| Organization | Department | Position | Period |
+| - | - | - | -: |
+| [Google](https://www.google.org/) | [Google Cloud](https://cloud.google.com/) | Customer Engineer, Data Analytics Specialist | ***Jun 2023 ~ Jun 2024*** |
+| [Seoul National University](https://www.snu.ac.kr/) | [Medinfo Laboratory](https://medinfolab.snu.ac.kr/) | Undergraduate Research Intern | ***Dec 2022 ~ Feb 2023*** |
+| [Korea IT Business Promotion Association](https://koipa.or.kr/) | SW Business Department | Senior Researcher | ***May 2022 ~ Dec 2022*** |
+| [Korea Data Agency](https://www.kdata.or.kr/) | [Big-data Campus - Korea University](https://dataonair.or.kr/bigjob/) | Teaching Assistance | ***Jun 2021 ~ Sep 2021*** |
+| [National IT industry Promotion Agency](https://www.nipa.kr/) | [ICT-InnovationSquare Seoul, Northeast region - AI Development](http://ictinnovation.kr/) | Teaching Assistance | ***Apr 2021 ~ Aug 2021*** |
+| [Anyang University](https://www.anyang.ac.kr/) | [Embedded System Laboratory](https://www.anyang.ac.kr/computer/) | Undergraduate Research | ***Mar 2018 ~ Jul 2018*** |
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+Laguages
+-----
+
+Native in **Korean**, Intermediate in **English**
+
+Programming Languages
+-----
+
+Python, C\#
+
+Frameworks & APIs
+-----
+
+NumPy, TensorFlow, Pandas, Spark
+
+Dev & ML Ops
+-----
+
+Google Cloud Platform
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams

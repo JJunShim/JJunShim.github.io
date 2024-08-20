@@ -26,24 +26,6 @@ I am grateful for your interest in my work.
 - Quantization
 - Sustainable Learning
 
-## Skills
-
-### Laguages
-
-Native in **Korean**, Intermediate in **English**
-
-### Programming Languages
-
-Python, C\#
-
-### Frameworks & APIs
-
-NumPy, TensorFlow, Pandas, Spark
-
-### Dev & ML Ops
-
-Google Cloud Platform
-
 ## More
 
 - [GitHub](https://github.com/JJunShim)
