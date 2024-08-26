@@ -17,7 +17,7 @@ Thank you for your interest in my work.
 
 🔎 Currently, looking for a **CS Graduate Program**!!
 
-- Curriculum Vitae: [Download](https://raw.githubusercontent.com/JJunShim/JJunShim/main/CV-JaejunShim.pdf)
+- Curriculum Vitae: [Download](https://drive.google.com/file/d/1oj08VgOHCSzqzA7qFgvBs8wRcJcRKovr/view?usp=sharing)
 - E-Mail: [jjunsh.120@gmail.com](mailto:jjunsh.120@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jjunshim/)
 
