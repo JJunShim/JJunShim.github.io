@@ -1,9 +1,9 @@
 # Academic Pages
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+![gh-pages](https://github.com/JJunShim/JJunShim.github.io/actions/workflows/jekyll.yml/badge.svg)
 
-Academic Pages is a Github Pages template for academic websites.
+Academic websites.
 
 # Getting Started
 
-See more info at https://academicpages.github.io/
+See more info at https://jjunshim.github.io/
