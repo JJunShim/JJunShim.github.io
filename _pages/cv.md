@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 PDF Download](https://raw.githubusercontent.com/JJunShim/JJunShim/main/CV-JaejunShim.pdf)
+[📄 PDF Download](https://drive.google.com/file/d/1oj08VgOHCSzqzA7qFgvBs8wRcJcRKovr/view?usp=sharing)
 
 ## Education
 
